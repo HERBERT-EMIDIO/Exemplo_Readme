@@ -72,7 +72,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Herbert Felipe Emidio da Silva
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/herbertemidio/
 
